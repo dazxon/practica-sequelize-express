@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.19",
+    "pg": "^8.11.0",
+    "sequelize": "^6.31.1"
+  },
+  "name": "repaso---express_squalize",
+  "description": "+++ con thunder client o postman testear +++",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
